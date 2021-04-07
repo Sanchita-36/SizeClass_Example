@@ -10,4 +10,6 @@ It is a App built from a course as a practice example Application.
 It shows how we use size classes to create a design for Portrait orientation in iPhone and iPad devices.
 
 
-I am still a learner, any suggestions would be appreciated. Thank you.
+I am still a learner trying to build good applications and get good understanding of iOS Development.
+If you have any suggestions please send them at email id - sanchitalachke@gmail.com and DONT FORGET TO ADD -> "GITHUB SUGGESTION FOR - (PROJECT NAME)" TO YOUR SUBJECT LINE.
+Thank You!
